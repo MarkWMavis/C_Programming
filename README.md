@@ -1,1 +1,1 @@
-# Hotel_Managment_System
+# A Collection of C Programs
